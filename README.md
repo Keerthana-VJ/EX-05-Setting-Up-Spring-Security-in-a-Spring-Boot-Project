@@ -370,7 +370,8 @@ The `user` account does not have the `ADMIN` role, so access to the admin endpoi
 
 The `admin` account has the `ADMIN` role and can successfully access the admin endpoint.
 
-![Admin Access](https://github.com/user-attachments/assets/e5176d38-a6f8-4421-b41a-3a863b714726)
+<img width="812" height="439" alt="image" src="https://github.com/user-attachments/assets/9ab91fa4-60d6-425e-b49c-0ab151b2d537" />
+
 
 ---
 
