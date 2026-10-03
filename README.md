@@ -335,7 +335,8 @@ Accessible only to users with the `ADMIN` role.
 
 The public endpoint can be accessed without providing authentication credentials.
 
-![Public Endpoint](https://github.com/user-attachments/assets/233e16fb-2df7-4cfb-8c5d-7392c12dd5ae)
+<img width="954" height="431" alt="image" src="https://github.com/user-attachments/assets/de6edbd0-1c37-4ed7-a579-c3f038320160" />
+
 
 ---
 
@@ -345,7 +346,8 @@ The public endpoint can be accessed without providing authentication credentials
 
 The `user` account has the `USER` role and can access the user endpoint.
 
-![User Access](https://github.com/user-attachments/assets/4b1df500-567c-40ab-8b91-0ea7e2d7423a)
+<img width="959" height="448" alt="image" src="https://github.com/user-attachments/assets/1ba23304-80ea-4466-8398-25abbfe794cc" />
+
 
 ### With Admin Access
 
@@ -361,7 +363,8 @@ The `admin` account can also access the user endpoint because it is an authentic
 
 The `user` account does not have the `ADMIN` role, so access to the admin endpoint is denied.
 
-![User Access Denied](https://github.com/user-attachments/assets/26ec8efb-86c7-4725-98aa-7d8b32f50e0b)
+<img width="956" height="412" alt="image" src="https://github.com/user-attachments/assets/0bcf7388-4c2f-4eb7-952a-e845a0dbfe27" />
+
 
 ### With Admin Access
 
